@@ -11,7 +11,6 @@
   ### I'm currently
 <ul>
   <li>💻 Learning JS</li>
-  <li>⚛️ Learning React</li>
 </ul>
   
   <h2 align="center">
